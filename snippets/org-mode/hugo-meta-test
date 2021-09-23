@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: hugo-meta-test
+# uuid: meta:test
+# key: meta:test
+# condition: t
+# --
+
+#+HUGO_BASE_DIR: ./
+#+HUGO_SECTION: test
+
+#+HUGO_WEIGHT: auto
+#+HUGO_AUTO_SET_LASTMOD: t
