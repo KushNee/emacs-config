@@ -69,7 +69,7 @@
   :custom
   (rime-librime-root "~/.emacs.d/librime/dist")
   (rime-show-candidate 'posframe)
-  (rime-user-data-dir "~/org/rime-config")
+  (rime-user-data-dir "~/rime-config")
   (rime-posframe-style 'vertical)
 
   :bind
