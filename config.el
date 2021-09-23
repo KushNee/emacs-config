@@ -63,6 +63,8 @@
   :config
   (super-save-mode +1))
 
+(use-package! posframe)
+
 (use-package! rime
   :custom
   (rime-librime-root "~/.emacs.d/librime/dist")
